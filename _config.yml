@@ -1,0 +1,8 @@
+title: Archburnlinuxpkgs
+description: O0Oo0oO0O_Acidburn_O0Oo0oO0O
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
